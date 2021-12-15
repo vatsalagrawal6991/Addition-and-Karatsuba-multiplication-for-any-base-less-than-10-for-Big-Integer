@@ -4,7 +4,7 @@ Big Integer library for Addition and Karatsuba multiplication for any base less 
 
 **************************HOW TO MAKE EXECUTABLE AND RUN PROGRAMME******************************
 1) Run multiplication "564775447865215" "45522789553321555" 10 like function for Multiplication 10 is base passed here
-2) Run addition "564778954113512541" "455221555211225" 10 like function for Multiplication 10 is base passed here
+2) Run addition "564778954113512541" "455221555211225" 10 like function for addition 10 is base passed here
 3) Run main for prebuilt examples 
 
 
